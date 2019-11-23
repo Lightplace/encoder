@@ -1,0 +1,22 @@
+{
+  "name": "encoder",
+  "version": "1.0.0",
+  "description": "Video management with React and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lightplace/encoder.git"
+  },
+  "author": "Tobias Lystad <tobias24@me.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Lightplace/encoder/issues"
+  },
+  "homepage": "https://github.com/Lightplace/encoder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
